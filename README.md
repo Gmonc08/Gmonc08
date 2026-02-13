@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Gmonc08/Gmonc08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Giorgio – Computer Science Student
 
-Here are some ideas to get you started:
+## About Me
+I am a Computer Science student (4th year ITIS) focused on backend development and AI fundamentals.  
+Currently exploring cybersecurity with interest in red team and penetration testing.  
+Primarily programming in Java and working in Linux environments (Arch/Debian).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Java Fullstack development
+- Foundational concepts in offensive security
+- Network setup and configuration basics
+
+## Skills
+- Programming: Java  
+- Operating Systems: Linux (Arch, Debian)  
+- Tools & Exposure: Kali Linux, Metasploit, Nmap, Wireshark  
+- Concepts: Backend development, AI fundamentals, network configuration  
+
+## Goals 
+- Build practical projects in backend and AI  
+- Develop skills in offensive security and penetration testing  
+- Prepare for university-level Computer Science studies  
+- Create a strong technical foundation for future security-related projects
+
+## Contact
+- GitHub: [github.com/Giorgio08](https://github.com/Giorgio08)
+- E-mail : giorgio.moncada8002@gmail.com

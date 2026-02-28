@@ -26,10 +26,7 @@ Primarily programming in Java and working in Linux environments (Arch/Debian).
 # 📬Contact
 - GitHub: [github.com/Giorgio08](https://github.com/Giorgio08)
 - E-mail : giorgio.moncada8002@gmail.com
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Giorgio&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
-
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

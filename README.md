@@ -29,6 +29,4 @@ Primarily programming in Java and working in Linux environments (Arch/Debian).
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-[IT Essentials](https://www.credly.com/badges/d5af7fde-6bd0-4806-ba5b-f4d1cc49a79a/public_url)
 

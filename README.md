@@ -30,3 +30,5 @@ Primarily programming in Java and working in Linux environments (Arch/Debian).
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🏅 Certifications
+[![IT Essentials - Cisco](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](https://www.credly.com/badges/d5af7fde-6bd0-4806-ba5b-f4d1cc49a79a/public_url)

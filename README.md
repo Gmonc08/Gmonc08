@@ -27,5 +27,9 @@ Primarily programming in Java, Go, Python a little. PHP, SQL and working in Debi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🏅 Certifications
-[![IT Essentials - Cisco](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](https://www.credly.com/badges/d5af7fde-6bd0-4806-ba5b-f4d1cc49a79a/public_url)
-[![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/397f6a34-e93f-4410-89e4-b919160ef7a0/public_url)
+<a href="https://www.credly.com/badges/d5af7fde-6bd0-4806-ba5b-f4d1cc49a79a/public_url">
+  <img src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials - Cisco" width="110" height="110">
+</a>
+<a href="https://www.credly.com/badges/397f6a34-e93f-4410-89e4-b919160ef7a0/public_url">
+  <img src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks - Cisco" width="110" height="110">
+</a>
